@@ -1,4 +1,4 @@
-# Considere os métodos static factory em vez dos construtores (pag.5 a pag.40)
+# Considere os métodos static factory em vez dos construtores (pag.5 a pag.10)
 
 Uma classe pode fornecer um método <i>static factory</i> público, que é simplesmente um método
 estático que retorna uma instância de classe. Mas não é o mesmo que o padrão <i> [Méthod Factory do GOF](https://refactoring.guru/pt-br/design-patterns/factory-method) </i>
