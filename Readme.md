@@ -3,6 +3,6 @@
 
 ### Capitulo 1
 
-[Item1](chapter-1/src/main/java/com/effectivejava/chapter1/item1)
+[Item1](chapter-1/item1.md)
 
-[Item2](chapter-1/src/main/java/com/effectivejava/chapter1/item2)
+[Item2](chapter-1/item2.md)
