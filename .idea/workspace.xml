@@ -5,31 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b474858-d884-4563-839a-0832bc3c7219" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-1/item2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-1/item3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-1/item4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-1/src/main/java/com/effectivejava/chapter1/item2/builder/NutritionFacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-1/src/main/java/com/effectivejava/chapter1/item2/builderHierarquia/Calzone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-1/src/main/java/com/effectivejava/chapter1/item2/builderHierarquia/NyPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-1/src/main/java/com/effectivejava/chapter1/item2/builderHierarquia/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-1/src/main/java/com/effectivejava/chapter1/item2/builderHierarquia/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-1/src/main/java/com/effectivejava/chapter1/item3/Elvis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-1/src/main/java/com/effectivejava/chapter1/item3/ElvisEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-1/src/main/java/com/effectivejava/chapter1/item4/UtilityClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/effective-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/effective-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter-1/chapter-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-1/chapter-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter-1/target/classes/com/effectivejava/chapter1/item1/Employee$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter-1/target/classes/com/effectivejava/chapter1/item1/Employee$EmployeeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-1/target/classes/com/effectivejava/chapter1/item1/Employee$EmployeeBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter-1/target/classes/com/effectivejava/chapter1/item1/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-1/target/classes/com/effectivejava/chapter1/item1/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter-1/target/classes/com/effectivejava/chapter1/item1/Permission$Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-1/target/classes/com/effectivejava/chapter1/item1/Permission$Role.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter-1/target/classes/com/effectivejava/chapter1/item1/Permission.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-1/target/classes/com/effectivejava/chapter1/item1/Permission.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter-1/target/classes/com/effectivejava/chapter1/item1/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter-1/item2.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-1/item2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter-1/item3.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-1/item3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter-1/item4.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-1/item4.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

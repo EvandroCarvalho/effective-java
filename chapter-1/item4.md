@@ -8,6 +8,6 @@ Induz o usuário a pensar erroneamente que a classe foi projetada para herança 
 instanciadas. </br>
 Desta maneira, pode-se fazer com que a classe não seja instanciável através da inclusão de construtores 
 privados. </br>
-[Exemplo](/src/main/java/com/effectivejava/chapter1/item4). Como o construtor é explicito privado, 
+[Exemplo](src/main/java/com/effectivejava/chapter1/item4). Como o construtor é explicito privado, 
 ele é inacessível fora da classe. O AssertionError não é estritamente necessário, mas oferece proteção 
 no caso de o construtor ser invocado acidentalmente dentro da classe.
