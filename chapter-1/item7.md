@@ -10,6 +10,6 @@ A correção para esse tipo de problema é simples: invalide as referências qua
 No entanto, tenha muito cuidado, pois atribuir null às referências de objetos devem ser uma exceção, e 
 não a regra. A melhor forma de eliminar uma referência obsoleta é **deixar a variável que contem a 
 refêrencia fora do escopo. Isso acontece naturalmente se você definir cada variável em um escopo 
-que seja o mais limitado possível.</br>
+que seja o mais limitado possível**.</br>
 Outra fonte comum de vazamento de memória são os caches.</br>
 Uma terceira forma comum e vazamento de memória são os listeners e ourtas funções de callback.
