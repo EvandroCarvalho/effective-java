@@ -12,4 +12,4 @@ não a regra. A melhor forma de eliminar uma referência obsoleta é **deixar a 
 refêrencia fora do escopo. Isso acontece naturalmente se você definir cada variável em um escopo 
 que seja o mais limitado possível**.</br>
 Outra fonte comum de vazamento de memória são os caches.</br>
-Uma terceira forma comum e vazamento de memória são os listeners e ourtas funções de callback.
+Uma terceira forma comum e vazamento de memória são os listeners e outras funções de callback.
